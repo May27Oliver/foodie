@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2024-03-14 23:11:43
+  food_id: 1
+  member: MyString
+  references: MyString
+
+two:
+  date: 2024-03-14 23:11:43
+  food_id: 1
+  member: MyString
+  references: MyString
